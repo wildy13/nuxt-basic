@@ -1,0 +1,3 @@
+<template>
+  <UserdataUser />
+</template>
