@@ -16,7 +16,7 @@
   <p>This will teach you how to create auth in public view (FRONTEND) as make middleware, Authentication on Nuxt Config, and etc.</p>
 </div>
 
-<em> the page is reponsive and good for firt-learn NUXT JS and NODE JS.</em>
+<em> the page is reponsive and good for first-learn NUXT JS and NODE JS.</em>
 
 ## FOLLOW ME
 - Follow **<a href="https://twitter.com/jo_14m/">Wildy Johanes Simanjuntak</a> on Twitter**
